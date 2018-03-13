@@ -1,0 +1,22 @@
+﻿<Properties StartupConfiguration="{6ED44A1A-2685-443C-91F6-7D71CE87C956}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExamenP1/ViewController.cs">
+    <Files>
+      <File FileName="ExamenP1/AppDelegate.cs" Line="1" Column="1" />
+      <File FileName="ExamenP1/ViewController.designer.cs" Line="139" Column="1" />
+      <File FileName="ExamenP1/Info.plist" />
+      <File FileName="ExamenP1/Settings.bundle/Root.plist" />
+      <File FileName="ExamenP1/ViewController.cs" Line="136" Column="115" />
+      <File FileName="ExamenP1/Main.cs" Line="12" Column="1" />
+      <File FileName="ExamenP1/Operaciones.cs" Line="44" Column="30" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.ExamenP1 PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.112D67DC-5BA7-4FA3-81B0-A5A719B2E32B" automaticSigning="False">
+    <MonoDevelop.MacDev.AppleDevelopmentTeam />
+  </MonoDevelop.Ide.ItemProperties.ExamenP1>
+</Properties>

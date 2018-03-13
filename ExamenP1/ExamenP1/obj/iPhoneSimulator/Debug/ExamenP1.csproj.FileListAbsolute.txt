@@ -1,0 +1,10 @@
+/Users/issc611/Projects/ExamenP1/ExamenP1/bin/iPhoneSimulator/Debug/ExamenP1.exe
+/Users/issc611/Projects/ExamenP1/ExamenP1/bin/iPhoneSimulator/Debug/ExamenP1.pdb
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/ibtool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_PartialAppManifest.items
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/actool/_BundleResourceWithLogicalName.items
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/Settings.bundle/Root.plist
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/device-builds/iphone10.4-11.2/optimized/
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/ExamenP1.csproj.CoreCompileInputs.cache
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/ExamenP1.exe
+/Users/issc611/Projects/ExamenP1/ExamenP1/obj/iPhoneSimulator/Debug/ExamenP1.pdb
